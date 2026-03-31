@@ -24,3 +24,8 @@ Output:
 ## How to Run
 1. Run DemoApplication.java
 2. Test API using Postman
+
+## Demo Video
+
+Watch here:
+(https://youtu.be/So6_b1qcyBc)
